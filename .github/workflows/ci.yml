@@ -4,7 +4,7 @@ on:
     branches:
       - master
       - main
-  
+  ßß
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -15,6 +15,12 @@ jobs:
       
       - name: install dependencies
         run: pip install -r requirements.txt
+      
+      - name: mkdocs serve
+        run: mkdocs serve --strict
+
+      - name: mkdocs Build
+        run: mkdocs build --strict
 
       - name: Build mkdocs and deploy
         run: mkdocs gh-deploy --force
