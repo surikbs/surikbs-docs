@@ -2,7 +2,7 @@ site_name: surikbs
 site_url: https://surikbs.github.io/
 
 #repo_name:  surikbs.github.io
-repo_url: https://github.com/surikbs/surikbs.github.io
+repo_url: https://github.com/surikbs/surikbs-docs
 edit_uri: edit/main/docs
 
 name:
