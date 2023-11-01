@@ -5,7 +5,7 @@ site_url: https://surikbs.github.io/
 repo_url: https://github.com/surikbs/surikbs-docs
 edit_uri: edit/main/docs
 
-name:
+nav:
   - Welcome: index.md
 
 theme:
