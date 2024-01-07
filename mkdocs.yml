@@ -10,23 +10,22 @@ nav:
 
 theme:
   name: material
-
   features:
-  - navigation.tabs
-  - navigation.sections
-  - navigation.top
-  - navigation.expand
-  - navigation.tracking
-  - navigation.footer
-  - navigation.indexes
-  - content.action.edit
-  - content.action.edit
-  - content.action.view
-  - content.code.annotate
-  - content.code.copy
-  - search.highlight
-  - search.share
-  - search.suggest
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.expand
+    - navigation.tracking
+    - navigation.footer
+    - navigation.indexes
+    - content.action.edit
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - search.highlight
+    - search.share
+    - search.suggest
 
   font:
     text: Roboto
